@@ -6,7 +6,8 @@ To develop a Django application to store and retrieve data from a railways datab
 
 ## Entity Relationship Diagram
 
-![alt text](<WhatsApp Image 2024-03-19 at 11.09.52 PM.jpeg>)
+![exp2out](https://github.com/sanjeevrajshanmugam/ORM/assets/151383137/7bf94040-fd47-4ebd-9a33-034635fa1019)
+
 
 ## DESIGN STEPS
 
